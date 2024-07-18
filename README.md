@@ -11,7 +11,7 @@
 You have a python script or Notebook and you want to ensure that any changes made to the script or notebook are automatically tested so that you can ensure that the changes do not break the code or worsens the performance of the model.
 
 ## Theory
-
+read
 What's a GitHub Action?
 
 GitHub Actions help you automate tasks within your software development life cycle. GitHub Actions are event-driven, meaning that you can run a series of commands after a specified event has occurred. For example, every time someone creates a pull request for a repository, you can automatically run a command that executes a software testing script.
